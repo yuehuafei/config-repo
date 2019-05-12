@@ -16,3 +16,6 @@ eureka:
 server:
   port: 8081
 env: yhf222
+girl:
+  name: lucy
+  age: 19
