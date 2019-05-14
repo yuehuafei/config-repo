@@ -15,6 +15,7 @@ eureka:
 server:
   port: 9000
 zuul:
+  sensitive-headers: 
   routes:
     product:
       path: /myProduct/**
